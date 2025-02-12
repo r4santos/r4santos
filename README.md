@@ -43,11 +43,12 @@
 ###
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/php-violet?style=for-the-badge&logo=php&logoColor=gray" alt="Php"/>
+  <img src="https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=cyan" alt="Dart"/>
   <img src="https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=cyan" alt="Flutter"/>
   <img src="https://img.shields.io/badge/swift-orange?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=cyan" alt="Dart"/>
-  <img src="https://img.shields.io/badge/php-violet?style=for-the-badge&logo=php&logoColor=gray" alt="Php"/>
 </div>
 
 
