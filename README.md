@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.discordapp.net/attachments/1260755395341713428/1338853854917296232/a35.png?ex=67ac9851&is=67ab46d1&hm=159ddac54f1ed5673e64d6fe9b1c353886daf28287f04d512313b18416dafe64&=&format=webp&quality=lossless"  />
+  <img height="150" src="https://conteudo.imguol.com.br/c/noticias/1c/2022/05/24/imagem-criada-no-imagen-prototipo-do-google-que-cria-imagens-baseadas-em-texto-neste-caso-um-cachorro-corgi-andando-de-bicicleta-na-times-square-usando-oculos-de-sol-e-chapeu-de-praia-1653397634334_v2_900x506.jpg"  />
 </div>
 
 ###
@@ -101,6 +101,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CodeDias/CodeDias/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/r4santos/r4santos/output/snake.svg" alt="Snake animation" />
 
 ###
