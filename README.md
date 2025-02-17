@@ -51,17 +51,21 @@
   <img src="https://img.shields.io/badge/swift-orange?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 </div>
 
+---
 
+<h3>🌐 Connect with Me</h3>
+
+<div align="center">
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rsantoosx/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-santos-8a0b44313/)
+  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/errequatro_)
+  
+</div>
 
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-
-
-###
 
 <img src="https://raw.githubusercontent.com/r4santos/r4santos/output/snake.svg" alt="Snake animation" />
 
