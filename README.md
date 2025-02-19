@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C957FF&width=435&lines=Hello+World!+I'm+Rafael+Santos;Bem+Vindo(a)+ao+meu+perfil+no+GitHub!+)](https://git.io/typing-svg)
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=r4santos.r4santos&"  />
-</div>
-
 ---
 
 <div align="center">
